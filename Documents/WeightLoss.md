@@ -34,8 +34,8 @@ Cheeseburger = 320 Kcal
 # BMR
 BMR=Basic Metabolic Rate, 意思是人类不活动(睡一整天)所消耗的热量  
 
-男BMR： 66 + ( 13.7 x 体重kg ) + ( 5 x 身高cm ) - ( 6.8 x 年龄years )
-女BMR： 655 + ( 9.6 x 体重kg ) + ( 1.8 x 身高cm ) - ( 4.7 x 年龄years )
+男BMR： 66 + ( 13.7 x 体重kg ) + ( 5 x 身高cm ) - ( 6.8 x 年龄years )  
+女BMR： 655 + ( 9.6 x 体重kg ) + ( 1.8 x 身高cm ) - ( 4.7 x 年龄years )  
 
 使用Harris Benedict Formula，将你的BMR乘以活动系数（如下）：  
 - 几乎不动 Calorie-Calculation = BMR x 1.2  
