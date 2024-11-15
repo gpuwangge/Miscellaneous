@@ -65,6 +65,12 @@ BMR=Basic Metabolic Rate, 意思是人类不活动(睡一整天)所消耗的热�
 当持续锻炼约两个月之后，肌肉的增长就变慢了，脂肪的消耗会超过肌肉的生长，才有可能看到明显体重下降(假设原本就有很多脂肪的情况)。  
 所以运动一定要长期坚持哦  
 
+# 食谱
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken1.jpg" alt="alt text" width="150" height="300">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken2.jpg" alt="alt text" width="150" height="300">  
+</p>  
+
 
 # Reference
 http://www.sjjlky.com/htmlPages/calories_counter.html  
