@@ -67,8 +67,8 @@ BMR=Basic Metabolic Rate, 意思是人类不活动(睡一整天)所消耗的热�
 
 # 食谱
 <p float="left">
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken1.jpg" alt="alt text" width="300" height="500">  
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken2.jpg" alt="alt text" width="300" height="500">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken1.jpg" alt="alt text" width="400" height="500">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken2.jpg" alt="alt text" width="400" height="500">  
 </p>  
 
 
