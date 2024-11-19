@@ -72,7 +72,7 @@ BMR=Basic Metabolic Rate, 意思是人类不活动(睡一整天)所消耗的热�
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken2.jpg" alt="alt text" width="390" height="500">  
 </p>  
 
-# 葱香烤鸡腿
+# 葱香烤鸡
 鸡肉剪开，加入生抽、耗油，料酒，胡椒粉，食盐，蒜末腌制半小时  
 材料放入空气炸锅中，洋葱垫底，然后放鸡肉，表面喷油  
 空气炸锅180度22分钟(15分钟翻面再烤7分钟)  
