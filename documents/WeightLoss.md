@@ -77,9 +77,19 @@ BMR=Basic Metabolic Rate, 意思是人类不活动(睡一整天)所消耗的热�
 材料放入空气炸锅中，洋葱垫底，然后放鸡肉，表面喷油  
 空气炸锅180度22分钟(15分钟翻面再烤7分钟)  
 <p float="left">
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken3.jpg" alt="alt text" width="390" height="500">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken3.jpg" alt="alt text" width="350" height="500">  
 </p>  
 
+# 滑蛋鳗鱼饭
+鳗鱼解冻后切成小块  
+准备调料：生抽一勺，老抽半勺，耗油半勺，蜂蜜适量，搅拌均匀  
+鸡蛋打开搅散备好  
+锅内倒油，待油温升高后倒入鸡蛋，煎至半熟状态，盛出盖在米饭上  
+鳗鱼放入锅中加热，倒入料汁，待汤汁浓稠即可出锅盖在米饭上  
+最后撒上芝麻  
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/fish1.jpg" alt="alt text" width="350" height="500">  
+</p>  
 
 
 
