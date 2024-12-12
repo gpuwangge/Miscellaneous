@@ -80,6 +80,12 @@ BMR=Basic Metabolic Rate, 意思是人类不活动(睡一整天)所消耗的热�
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken3.jpg" alt="alt text" width="350" height="500">  
 </p>  
 
+# 洋葱滑蛋鸡肉
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken4.jpg" alt="alt text" width="390" height="500">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken4instruct.jpg" alt="alt text" width="390" height="500">  
+</p> 
+
 # 滑蛋鳗鱼饭
 鳗鱼解冻后切成小块  
 准备调料：生抽一勺，老抽半勺，耗油半勺，蜂蜜适量，搅拌均匀  
