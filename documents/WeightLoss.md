@@ -82,8 +82,8 @@ BMR=Basic Metabolic Rate, 意思是人类不活动(睡一整天)所消耗的热�
 
 # 洋葱滑蛋鸡肉
 <p float="left">
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken4instruct.jpg" alt="alt text" width="390" height="500">  
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken4.jpg" alt="alt text" width="390" height="500">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken4instruct.jpg" alt="alt text" width="600" height="750">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken4.jpg" alt="alt text" width="600" height="750">  
 </p> 
 
 # 滑蛋鳗鱼饭
