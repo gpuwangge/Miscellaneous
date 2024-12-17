@@ -109,6 +109,16 @@ BMR=Basic Metabolic Rate, 意思是人类不活动(睡一整天)所消耗的热�
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beef1.jpg" alt="alt text" width="390" height="500">  
 </p> 
 
+# 空气炸锅系列
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/airfry1.jpg" alt="alt text" width="390" height="500">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/airfry2.jpg" alt="alt text" width="390" height="500">  
+</p> 
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/airfry3.jpg" alt="alt text" width="390" height="500">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/airfry4.jpg" alt="alt text" width="390" height="500">  
+</p> 
+
 
 
 # Reference
