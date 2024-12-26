@@ -1,3 +1,57 @@
+# 食谱
+# 滑蛋炒鸡
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken1.jpg" alt="alt text" width="390" height="500">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken2.jpg" alt="alt text" width="390" height="500">  
+</p>  
+
+# 葱香烤鸡
+鸡肉剪开，加入生抽、耗油，料酒，胡椒粉，食盐，蒜末腌制半小时  
+材料放入空气炸锅中，洋葱垫底，然后放鸡肉，表面喷油  
+空气炸锅180度22分钟(15分钟翻面再烤7分钟)  
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken3.jpg" alt="alt text" width="350" height="500">  
+</p>  
+
+# 洋葱滑蛋鸡肉
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken4instruct.jpg" alt="alt text" width="600" height="750">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken4.jpg" alt="alt text" width="600" height="750">  
+</p> 
+
+# 滑蛋鳗鱼饭
+鳗鱼解冻后切成小块  
+准备调料：生抽一勺，老抽半勺，耗油半勺，蜂蜜适量，搅拌均匀  
+鸡蛋打开搅散备好  
+锅内倒油，待油温升高后倒入鸡蛋，煎至半熟状态，盛出盖在米饭上  
+鳗鱼放入锅中加热，倒入料汁，待汤汁浓稠即可出锅盖在米饭上  
+最后撒上芝麻  
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/fish1.jpg" alt="alt text" width="350" height="500">  
+</p>  
+
+# 滑蛋虾仁
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/shrimp1instruct.jpg" alt="alt text" width="390" height="500">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/shrimp1.jpg" alt="alt text" width="390" height="500">  
+</p> 
+
+# 番茄牛肉
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beef1instruct.jpg" alt="alt text" width="390" height="500">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beef1.jpg" alt="alt text" width="390" height="500">  
+</p> 
+
+# 空气炸锅系列
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/airfry1.jpg" alt="alt text" width="390" height="500">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/airfry2.jpg" alt="alt text" width="390" height="500">  
+</p> 
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/airfry3.jpg" alt="alt text" width="390" height="500">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/airfry4.jpg" alt="alt text" width="390" height="500">  
+</p> 
+
 # 常见食物热量
 1 g蛋白质 = 4 Kcal  
 1 g碳水化合物 = 4 Kcal  
@@ -64,61 +118,6 @@ BMR=Basic Metabolic Rate, 意思是人类不活动(睡一整天)所消耗的热�
 所以虽然脂肪被消耗了，但肌肉和水分增加了，总体体重反而会增加。  
 当持续锻炼约两个月之后，肌肉的增长就变慢了，脂肪的消耗会超过肌肉的生长，才有可能看到明显体重下降(假设原本就有很多脂肪的情况)。  
 所以运动一定要长期坚持哦  
-
-# 食谱
-# 滑蛋炒鸡
-<p float="left">
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken1.jpg" alt="alt text" width="390" height="500">  
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken2.jpg" alt="alt text" width="390" height="500">  
-</p>  
-
-# 葱香烤鸡
-鸡肉剪开，加入生抽、耗油，料酒，胡椒粉，食盐，蒜末腌制半小时  
-材料放入空气炸锅中，洋葱垫底，然后放鸡肉，表面喷油  
-空气炸锅180度22分钟(15分钟翻面再烤7分钟)  
-<p float="left">
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken3.jpg" alt="alt text" width="350" height="500">  
-</p>  
-
-# 洋葱滑蛋鸡肉
-<p float="left">
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken4instruct.jpg" alt="alt text" width="600" height="750">  
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken4.jpg" alt="alt text" width="600" height="750">  
-</p> 
-
-# 滑蛋鳗鱼饭
-鳗鱼解冻后切成小块  
-准备调料：生抽一勺，老抽半勺，耗油半勺，蜂蜜适量，搅拌均匀  
-鸡蛋打开搅散备好  
-锅内倒油，待油温升高后倒入鸡蛋，煎至半熟状态，盛出盖在米饭上  
-鳗鱼放入锅中加热，倒入料汁，待汤汁浓稠即可出锅盖在米饭上  
-最后撒上芝麻  
-<p float="left">
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/fish1.jpg" alt="alt text" width="350" height="500">  
-</p>  
-
-# 滑蛋虾仁
-<p float="left">
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/shrimp1instruct.jpg" alt="alt text" width="390" height="500">  
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/shrimp1.jpg" alt="alt text" width="390" height="500">  
-</p> 
-
-# 番茄牛肉
-<p float="left">
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beef1instruct.jpg" alt="alt text" width="390" height="500">  
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beef1.jpg" alt="alt text" width="390" height="500">  
-</p> 
-
-# 空气炸锅系列
-<p float="left">
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/airfry1.jpg" alt="alt text" width="390" height="500">  
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/airfry2.jpg" alt="alt text" width="390" height="500">  
-</p> 
-<p float="left">
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/airfry3.jpg" alt="alt text" width="390" height="500">  
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/airfry4.jpg" alt="alt text" width="390" height="500">  
-</p> 
-
 
 
 # Reference
