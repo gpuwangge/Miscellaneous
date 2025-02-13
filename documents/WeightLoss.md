@@ -52,6 +52,17 @@
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/airfry4.jpg" alt="alt text" width="390" height="500">  
 </p> 
 
+# 海鲜盖饭
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/seafood1.jpg" alt="alt text" width="390" height="500">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/seafoody2.jpg" alt="alt text" width="390" height="500">  
+</p> 
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/seafood3.jpg" alt="alt text" width="390" height="500">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/seafood4.jpg" alt="alt text" width="390" height="500">  
+</p> 
+
+
 # 常见食物热量
 1 g蛋白质 = 4 Kcal  
 1 g碳水化合物 = 4 Kcal  
