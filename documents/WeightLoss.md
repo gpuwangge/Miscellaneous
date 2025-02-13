@@ -55,7 +55,7 @@
 # 海鲜盖饭
 <p float="left">
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/seafood1.jpg" alt="alt text" width="390" height="500">  
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/seafoody2.jpg" alt="alt text" width="390" height="500">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/seafood2.jpg" alt="alt text" width="390" height="500">  
 </p> 
 <p float="left">
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/seafood3.jpg" alt="alt text" width="390" height="500">  
