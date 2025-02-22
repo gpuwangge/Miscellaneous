@@ -62,6 +62,20 @@
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/seafood4.jpg" alt="alt text" width="390" height="500">  
 </p> 
 
+# 青椒炒蛋
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/spicyegg1.png" alt="alt text" width="200" height="400">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/spicyegg2.png" alt="alt text" width="200" height="400">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/spicyegg3.png" alt="alt text" width="200" height="400">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/spicyegg4.png" alt="alt text" width="200" height="400">    
+</p> 
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/spicyegg5.png" alt="alt text" width="200" height="400">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/spicyegg6.png" alt="alt text" width="200" height="400">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/spicyegg7.png" alt="alt text" width="200" height="400"> 
+</p> 
+
+
 
 # 常见食物热量
 1 g蛋白质 = 4 Kcal  
