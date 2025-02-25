@@ -75,6 +75,20 @@
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/spicyegg7.png" alt="alt text" width="200" height="400"> 
 </p> 
 
+# 碎肉炒蛋
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/meategg1.png" alt="alt text" width="150" height="400">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/meategg2.png" alt="alt text" width="150" height="400">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/meategg3.png" alt="alt text" width="150" height="400">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/meategg4.png" alt="alt text" width="150" height="400">    
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/meategg5.png" alt="alt text" width="150" height="400"> 
+</p> 
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/meategg6.png" alt="alt text" width="150" height="400">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/meategg7.png" alt="alt text" width="150" height="400">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/meategg8.png" alt="alt text" width="150" height="400"> 
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/meategg9.png" alt="alt text" width="150" height="400"> 
+</p> 
 
 
 # 常见食物热量
