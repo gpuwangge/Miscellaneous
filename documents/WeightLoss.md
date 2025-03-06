@@ -1,5 +1,10 @@
 # 食谱
 
+# 蛋粉鸡胸
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chickenbreast.jpg" alt="alt text" width="720" height="960">  
+</p> 
+
 # 葱香鸡胸
 <p float="left">
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/garlicchicken1.jpg" alt="alt text" width="180" height="270">  
