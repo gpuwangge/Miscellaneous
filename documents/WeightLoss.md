@@ -111,6 +111,19 @@
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/meategg9.png" alt="alt text" width="150" height="270"> 
 </p> 
 
+# 土豆香肠
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/sausage1.png" alt="alt text" width="200" height="400">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/sausage2.png" alt="alt text" width="200" height="400">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/sausage3.png" alt="alt text" width="200" height="400">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/sausage4.png" alt="alt text" width="200" height="400">    
+</p> 
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/sausage5.png" alt="alt text" width="200" height="400">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/sausage6.png" alt="alt text" width="200" height="400">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/sausage7.png" alt="alt text" width="200" height="400"> 
+</p> 
+
 
 # 常见食物热量
 1 g蛋白质 = 4 Kcal  
