@@ -124,6 +124,11 @@
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/sausage7.jpg" alt="alt text" width="200" height="270"> 
 </p> 
 
+# 蛋液豆腐
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/toufuegg.jpg" alt="alt text" width="432" height="576">  
+</p> 
+
 
 # 常见食物热量
 1 g蛋白质 = 4 Kcal  
