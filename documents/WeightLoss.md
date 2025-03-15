@@ -58,6 +58,12 @@
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg11.png" alt="alt text" width="180" height="270"> 
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg12.png" alt="alt text" width="180" height="270"> 
 </p> 
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg13.png" alt="alt text" width="180" height="270">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg14.png" alt="alt text" width="180" height="270">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg15.png" alt="alt text" width="180" height="270"> 
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg16.png" alt="alt text" width="180" height="270"> 
+</p> 
 
 # 滑蛋鳗鱼饭
 鳗鱼解冻后切成小块  
