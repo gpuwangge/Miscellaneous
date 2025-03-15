@@ -19,13 +19,6 @@
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/garlicchicken8.jpg" alt="alt text" width="180" height="270"> 
 </p> 
 
-
-# 滑蛋炒鸡
-<p float="left">
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken1.jpg" alt="alt text" width="390" height="500">  
-  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken2.jpg" alt="alt text" width="390" height="500">  
-</p>  
-
 # 葱香烤鸡
 鸡肉剪开，加入生抽、耗油，料酒，胡椒粉，食盐，蒜末腌制半小时  
 材料放入空气炸锅中，洋葱垫底，然后放鸡肉，表面喷油  
@@ -34,10 +27,36 @@
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken3.jpg" alt="alt text" width="350" height="500">  
 </p>  
 
+# 滑蛋炒鸡
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken1.jpg" alt="alt text" width="390" height="500">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken2.jpg" alt="alt text" width="390" height="500">  
+</p>  
+
 # 洋葱滑蛋鸡肉
 <p float="left">
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken4instruct.jpg" alt="alt text" width="600" height="750">  
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken4.jpg" alt="alt text" width="600" height="750">  
+</p> 
+
+# 滑蛋牛排
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg1.png" alt="alt text" width="180" height="270">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg2.png" alt="alt text" width="180" height="270">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg3.png" alt="alt text" width="180" height="270">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg4.png" alt="alt text" width="180" height="270">    
+</p> 
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg5.png" alt="alt text" width="180" height="270">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg6.png" alt="alt text" width="180" height="270">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg7.png" alt="alt text" width="180" height="270"> 
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg8.png" alt="alt text" width="180" height="270"> 
+</p> 
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg9.png" alt="alt text" width="180" height="270">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg10.png" alt="alt text" width="180" height="270">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg11.png" alt="alt text" width="180" height="270"> 
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg12.png" alt="alt text" width="180" height="270"> 
 </p> 
 
 # 滑蛋鳗鱼饭
