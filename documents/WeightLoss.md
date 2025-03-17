@@ -159,6 +159,10 @@
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/shrimp.jpg" alt="alt text" width="432" height="576">  
 </p> 
 
+# 黄瓜炒蛋
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/cucumberegg.jpg" alt="alt text" width="432" height="576">  
+</p> 
 
 # 常见食物热量
 1 g蛋白质 = 4 Kcal  
