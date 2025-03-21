@@ -136,6 +136,11 @@
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/meategg9.png" alt="alt text" width="150" height="270"> 
 </p> 
 
+# 蘑菇炒蛋
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/mushroomegg.jpg" alt="alt text" width="720" height="960">  
+</p> 
+
 # 土豆香肠
 <p float="left">
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/sausage1.jpg" alt="alt text" width="200" height="270">  
