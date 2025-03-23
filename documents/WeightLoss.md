@@ -39,6 +39,12 @@
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/chicken4.jpg" alt="alt text" width="600" height="750">  
 </p> 
 
+# 煎鸡腿
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/drumstick1.jpg" alt="alt text" width="432" height="576">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/drumstick2.jpg" alt="alt text" width="432" height="576">  
+</p> 
+
 # 滑蛋牛排
 <p float="left">
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg1.png" alt="alt text" width="180" height="290">  
