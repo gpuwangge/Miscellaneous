@@ -45,6 +45,29 @@
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/drumstick2.jpg" alt="alt text" width="432" height="576">  
 </p> 
 
+# 腌鸡肉
+<p float="left">
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/marinatedchicken1.jpg" alt="alt text" width="351" height="594">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/marinatedchicken2.jpg" alt="alt text" width="351" height="594">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/marinatedchicken3.jpg" alt="alt text" width="351" height="594">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/marinatedchicken4.jpg" alt="alt text" width="351" height="594">  
+</p> 
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/marinatedchicken5.jpg" alt="alt text" width="351" height="594">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/marinatedchicken6.jpg" alt="alt text" width="351" height="594">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/marinatedchicken7.jpg" alt="alt text" width="351" height="594">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/marinatedchicken8.jpg" alt="alt text" width="351" height="594">  
+</p> 
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/marinatedchicken9.jpg" alt="alt text" width="351" height="594">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/marinatedchicken10.jpg" alt="alt text" width="351" height="594">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/marinatedchicken11.jpg" alt="alt text" width="351" height="594">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/marinatedchicken12.jpg" alt="alt text" width="351" height="594">  
+</p> 
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/marinatedchicken13.jpg" alt="alt text" width="351" height="594">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/marinatedchicken14.jpg" alt="alt text" width="351" height="594">  
+  <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/marinatedchicken15.jpg" alt="alt text" width="351" height="594">  
+</p> 
+
+
 # 滑蛋牛排
 <p float="left">
   <img src="https://github.com/gpuwangge/Miscellaneous/blob/main/images/beefegg1.png" alt="alt text" width="180" height="290">  
