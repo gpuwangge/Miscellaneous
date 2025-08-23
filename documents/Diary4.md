@@ -120,7 +120,7 @@ Dextromethorphan HBr（止咳）
 含有镇咳药（Dextromethorphan）可能导致头晕或嗜睡，避免与其他中枢抑制剂合用。  
 某些版本含抗组胺成分（如Chlorpheniramine）可能导致嗜睡。  
 
-**3. Allergy Relief Fluticasone Propionate（氟替卡松鼻喷雾）  
+3. Allergy Relief Fluticasone Propionate（氟替卡松鼻喷雾）  
 商品名对照：常见为 Flonase  
 剂型：鼻喷剂，每喷含 Fluticasone Propionate 50 mcg  
 分类：糖皮质激素（Glucocorticoid）  
@@ -137,9 +137,11 @@ Dextromethorphan HBr（止咳）
 局部使用，副作用少，个别可能出现鼻干、鼻血或喉咙刺激。  
 
 
-# 保险  
-
-
+# 费用  
+根据账单显示，十天住院产生的总费用如下（美元）：$788756，折后保险公司实际价格：$405865。因为费用达到了out-of-pocket上限，个人实际支付价格：$3522  
+- Blue shield paid: $405,865  
+- Network savings: $379,369  
+- You paid: $3,522  
 
 
 
