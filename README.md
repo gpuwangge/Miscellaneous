@@ -4,6 +4,8 @@
 
 # [12~24](https://github.com/gpuwangge/Diary/blob/main/documents/Diary3.md)  
 
+# [西雅图之夜](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Diary5.md)
+
 # [食谱](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/WeightLoss.md)   
 
 
