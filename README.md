@@ -6,7 +6,7 @@
 
 # [西雅图之夜](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Diary5.md)
 
-# [工作](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Diary6.md)
+# [第一桶金](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Diary6.md)
 
 # [食谱](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/WeightLoss.md)   
 
