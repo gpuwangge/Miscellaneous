@@ -4,6 +4,8 @@
 
 # [繁星心世界](https://github.com/gpuwangge/Diary/blob/main/documents/Diary3.md)  
 
+# [老马 上](https://github.com/gpuwangge/Diary/blob/main/documents/Diary4.md)  
+
 # [西雅图之夜](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Diary5.md)
 
 # [第一桶金](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Diary6.md)
