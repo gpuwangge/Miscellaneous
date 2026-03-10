@@ -1,4 +1,4 @@
-# [密歇根的最后一日](https://github.com/gpuwangge/Diary/blob/main/documents/Diary1.md)  
+# [密歇根的最后一日](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Article1.md)
 
 # [白卷逆风敲代码](https://github.com/gpuwangge/Diary/blob/main/documents/Diary2.md)  
 
@@ -8,7 +8,7 @@
 
 # [西雅图之夜](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Diary5.md)
 
-# [第一桶金](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Diary6.md)
+# [第一桶金](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Article6.md)
 
 # [老马 下](https://github.com/gpuwangge/Diary/blob/main/documents/Diary7.md)  
 
