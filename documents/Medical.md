@@ -268,7 +268,10 @@ Olopatadine HCl Nasal Spray（奥洛他定盐酸盐鼻喷剂）是一种治疗�
 ### 使用策略
 Fluticasone（Flonase） → 激素（抗炎、通鼻更强）  
 Olopatadine → 抗组胺（止痒、止喷嚏）  
-有时候医生会一起用  
-
+有时候医生会一起用   
+没有症状的时候， Olopatadine可以不用每天喷，它是抗组胺喷剂（类似“对症药”）  
+你很确定要发作了，可以提前 1–2天开始用  
+你刚刚缓解，可以多用几天巩固一下，再停  
+Fluticasone nasal spray不一样，那种通常需要长期维持  
 
 
