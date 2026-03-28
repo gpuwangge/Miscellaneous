@@ -2,7 +2,7 @@
 
 # [白卷程序员](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Article2.md)  
 
-# [繁星心世界](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Article3.md)  
+# [消逝的星光](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Article3.md)  
 
 # [西雅图之夜](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Article4.md)  
 
