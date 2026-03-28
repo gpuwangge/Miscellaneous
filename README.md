@@ -1,6 +1,6 @@
 # [密歇根的最后一日](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Article1.md)  
 
-# [白卷逆风敲代码](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Article2.md)  
+# [白卷程序员](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Article2.md)  
 
 # [繁星心世界](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Article3.md)  
 
