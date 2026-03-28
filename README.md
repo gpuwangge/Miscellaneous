@@ -6,7 +6,7 @@
 
 # [西雅图之夜](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Article4.md)  
 
-# [第一桶金](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Article5.md)  
+# [职场惊魂](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Article5.md)  
 
 # [老马 上](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Article6.md)  
 
