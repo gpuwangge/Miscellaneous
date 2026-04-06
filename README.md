@@ -14,6 +14,8 @@
 
 # [红衫河](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Article8.md)  
 
+# [打工往事 上](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/Article9.md)  
+
 # [食谱](https://github.com/gpuwangge/Miscellaneous/blob/main/documents/WeightLoss.md)   
 
 
