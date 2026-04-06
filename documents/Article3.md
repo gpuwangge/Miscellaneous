@@ -32,4 +32,4 @@
 
 十几年过去了，如果三省君还在的话，必已事业有成，游历四方，阅人无数。或许跟我一样，也听过贾斯丁比伯和泰勒斯威夫特的歌，也开了一间加州旅馆。就如同我们活到现在的人拥有了这一切一样。此时此刻的凌晨，虽然我还是一个人，孤独得像黑色夜幕上不起眼的繁星中的一颗。但我的心里装着很多个世界，就如同12~24岁的自己。  
 
-[回首页](https://github.com/gpuwangge/Miscellaneous/tree/main?tab=readme-ov-file) 
+[回首页](https://github.com/gpuwangge/Miscellaneous/blob/main/README.md)  
