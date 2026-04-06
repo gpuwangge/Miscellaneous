@@ -46,5 +46,5 @@
 
 人之所以不幸福，大概是因为目标太功利，忽视了那些无须回报的瞬间。对于普通人来说，前路也许没有惊涛骇浪，也没有光芒万丈——但依然有平凡的美好，和那些一样平凡、一样快活的夜晚。    
 
-
+[回首页](https://github.com/gpuwangge/Miscellaneous/blob/main/README.md)  
 
