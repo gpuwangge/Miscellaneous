@@ -20,4 +20,4 @@ HR向我们介绍了公司是做网络流媒体业务，刚拿到两千万美元
 
 很多选择都是盲目的。对于一个人的命运，天赋和努力都是其次。走在风口上，普通人也能飞起来。时代的一粒沙，就是个人的一座山。当然对学渣来说，走在风口上我也没有飞起。后来研究生我也没读下去，期末考试还交了白卷。但这是另外的故事了。
 
-[回首页](https://github.com/gpuwangge/Miscellaneous/tree/main?tab=readme-ov-file) 
+[回首页](https://github.com/gpuwangge/Miscellaneous/blob/main/README.md)  
