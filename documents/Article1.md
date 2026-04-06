@@ -23,4 +23,4 @@
 后来我又做了几次梦，梦见我在密歇根的某个林中小屋里隐居。醒来以后，我竟不知道这算是美梦还是噩梦。也许这就是生活吧：拿走一些你的，又给了你另一些。  
 
 
-# [回首页](https://github.com/gpuwangge/Miscellaneous/tree/main?tab=readme-ov-file)   
+[回首页](https://github.com/gpuwangge/Miscellaneous/tree/main?tab=readme-ov-file)   
